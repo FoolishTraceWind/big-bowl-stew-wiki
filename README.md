@@ -1,2 +1,13 @@
 # big-bowl-stew-wiki
 Minecraft 服务器相关文档
+
+## Source
+
+锁箱插件 LWC Extended
+https://github.com/pop4959/LWCX/wiki/Commands
+
+商店插件 QuickShop
+https://github.com/Ghost-chu/QuickShop-Reremake/wiki/Getting-Started
+
+领地插件 Residence
+https://github.com/Zrips/Residence/wiki/Creating,-Protecting-and-Modifying
