@@ -11,3 +11,7 @@ https://github.com/Ghost-chu/QuickShop-Reremake/wiki/Getting-Started
 
 领地插件 Residence
 https://github.com/Zrips/Residence/wiki/Creating,-Protecting-and-Modifying
+
+## License
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
