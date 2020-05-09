@@ -38,7 +38,7 @@
 
 /qs staff del _TraceWind_
 
-#### 移除所有员工：
+#### 移除所有员工
 
 /qs staff clear _TraceWind_
 
@@ -64,7 +64,7 @@ _/qs sell_
 
 _/qs price_
 
-### 移除当前货物库存为零的所有商
+### 移除当前货物库存为零的所有商品
 
 _/qs clean_ 
 
