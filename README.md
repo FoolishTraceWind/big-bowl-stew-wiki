@@ -1,5 +1,5 @@
-# big-bowl-stew-wiki
-Minecraft 服务器相关文档
+# Big Bowl Stew TraceWind Wiki
+大碗炖痕 Minecraft 服务器相关文档
 
 ## Source
 
