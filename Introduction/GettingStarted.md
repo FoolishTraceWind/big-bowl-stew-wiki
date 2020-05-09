@@ -17,13 +17,14 @@
 5. 启动游戏，并进入服务器。
 
 ### 使用自己的启动器
+
 1. 准备一个<b>支持 authlib-injector 的</b>启动器并安装 Minecraft 1.15.2。
-2. 设置认证服务器为 `ali.tracewind.net`
+2. 设置认证服务器为 `ali.tracewind.net` 
 4. 按提示填写注册时设置的邮箱与密码。
 5. 启动游戏，添加服务器 `mc.tracewind.net` 并进入。
 
 ## 进阶使用
 
-[锁箱插件](../LWC/index.md)
-[商店插件](../QuickShop/index.md)
-[领地插件](../Residence/index.md)
+* [锁箱插件](../LWC/index.md)
+* [商店插件](../QuickShop/index.md)
+* [领地插件](../Residence/index.md)
